@@ -1,0 +1,5 @@
+en:
+# query selectors strings
+  label_issue_list: Issue list
+  field_id: Issue_id
+

@@ -1,0 +1,15 @@
+h2. Redmine issue id's query plugin
+
+Plugin adds extra operators to issues query, allowing to select exact issues by their id's
+
+h3. Compatibility
+
+Plugin was tested on Redmine v1.3.2devel (r9308)
+Plugin patches *views\queries\_filters.html.erb* view.
+
+h3. History
+
+0.0.1
+
+* First public release
+
