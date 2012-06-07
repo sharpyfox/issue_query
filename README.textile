@@ -1,11 +1,10 @@
 h2. Redmine issue id's query plugin
 
-Plugin adds extra operators to issues query, allowing to select exact issues by their id's
+Plugin adds extra operators to issues query, allowing to select exact issues by their id's (comma-separated list).
 
 h3. Compatibility
 
-Plugin was tested on Redmine v1.3.2devel (r9308)
-Plugin patches *views\queries\_filters.html.erb* view.
+Plugin was tested on Redmine v1.4.1.stable (MySQL)
 
 h3. History
 
@@ -13,3 +12,12 @@ h3. History
 
 * First public release
 
+Plugin was tested on Redmine v1.3.2.devel (r9308)
+
+0.0.2
+
+* Add new filter option, for excluding issues by id
+* Backward compatibility with old filters
+* Delete view template patch (_filters.html.erb)
+
+Plugin was tested on Redmine v1.4.1.stable (MySQL)
