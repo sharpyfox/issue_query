@@ -1,4 +1,2 @@
 en:
-# query selectors strings
-  field_id: Issue_id
-
+  field_id: Issue ids
