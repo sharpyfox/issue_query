@@ -20,4 +20,8 @@ Plugin was tested on Redmine v1.3.2.devel (r9308)
 * Backward compatibility with old filters
 * Delete view template patch (_filters.html.erb)
 
+0.0.3
+
+* Redmine 2.x support
+
 Plugin was tested on Redmine v1.4.1.stable (MySQL)
