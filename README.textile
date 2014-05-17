@@ -24,4 +24,4 @@ Plugin was tested on Redmine v1.3.2.devel (r9308)
 
 * Redmine 2.x support
 
-Plugin was tested on Redmine v1.4.1.stable (MySQL)
+Plugin was tested on Redmine v1.4.1.stable (MySQL), 2.4.5 (MySQL)
